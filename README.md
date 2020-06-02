@@ -11,4 +11,4 @@ A text file to store the highest score yet
 
 # How to Play
 Fork and download the project
-Install all the dependencies using pip through the command line : `$ pip install -r requirements.txt
+Install all the dependencies using pip through the command line : `$ pip install -r requirements.txt`
